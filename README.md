@@ -1,1 +1,1 @@
-# lessify-images
+# Lessify Images Repository
